@@ -1,0 +1,6 @@
+{
+  "name": "simple-poly-todo",
+  "short_name": "simple-poly-todo",
+  "start_url": "/",
+  "display": "standalone"
+}
